@@ -1,0 +1,101 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix edm: <http://www.europeana.eu/schemas/edm/> .
+@prefix ex: <http://example.org/shapes/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+############################################################
+# TARGET: All Provided Cultural Heritage Objects (CHO)
+############################################################
+
+ex:CHOShape
+    a sh:NodeShape ;
+    sh:targetClass edm:ProvidedCHO ;
+    sh:property ex:TitleProperty ;
+    sh:property ex:CreatorProperty ;
+    sh:property ex:DescriptionProperty ;
+    sh:property ex:LanguageProperty ;
+    sh:property ex:CountryProperty ;
+    sh:property ex:DataProviderProperty ;
+    sh:property ex:ProviderProperty ;
+    sh:property ex:RightsProperty ;
+    sh:property ex:TypeProperty ;
+    sh:property ex:YearProperty ;
+    sh:property ex:ShownByProperty ;
+    sh:closed false .
+
+############################################################
+# Mandatory metadata properties
+############################################################
+
+ex:TitleProperty
+    a sh:PropertyShape ;
+    sh:path dc:title ;
+    sh:minCount 1 ;
+    sh:message "Missing mandatory field: dc:title" .
+
+ex:CreatorProperty
+    a sh:PropertyShape ;
+    sh:path dc:creator ;
+    sh:minCount 1 ;
+    sh:message "Missing mandatory field: dc:creator" .
+
+ex:DescriptionProperty
+    a sh:PropertyShape ;
+    sh:path dc:description ;
+    sh:minCount 1 ;
+    sh:message "Missing mandatory field: dc:description" .
+
+ex:LanguageProperty
+    a sh:PropertyShape ;
+    sh:path dc:language ;
+    sh:minCount 1 ;
+    sh:message "Missing mandatory field: dc:language" .
+
+ex:CountryProperty
+    a sh:PropertyShape ;
+    sh:path edm:country ;
+    sh:minCount 1 ;
+    sh:message "Missing mandatory field: edm:country" .
+
+ex:DataProviderProperty
+    a sh:PropertyShape ;
+    sh:path edm:dataProvider ;
+    sh:minCount 1 ;
+    sh:message "Missing mandatory field: edm:dataProvider" .
+
+ex:ProviderProperty
+    a sh:PropertyShape ;
+    sh:path edm:provider ;
+    sh:minCount 1 ;
+    sh:message "Missing mandatory field: edm:provider" .
+
+ex:RightsProperty
+    a sh:PropertyShape ;
+    sh:path edm:rights ;
+    sh:minCount 1 ;
+    sh:message "Missing mandatory field: edm:rights" .
+
+ex:TypeProperty
+    a sh:PropertyShape ;
+    sh:path dc:type ;
+    sh:minCount 1 ;
+    sh:message "Missing mandatory field: dc:type" .
+
+# Accept both dc:date and dcterms:created for the "year" requirement.
+ex:YearProperty
+    a sh:PropertyShape ;
+    sh:path dc:date ;
+    sh:or (
+        [ sh:path dc:date ]
+        [ sh:path dcterms:created ]
+    ) ;
+    sh:minCount 1 ;
+    sh:message "Missing mandatory field: dc:date or dcterms:created" .
+
+ex:ShownByProperty
+    a sh:PropertyShape ;
+    sh:path edm:isShownBy ;
+    sh:minCount 1 ;
+    sh:message "Missing mandatory field: edm:isShownBy" .
