@@ -4,7 +4,7 @@ import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from time import sleep
 
-API_KEY = "yourEuropeanaKey"
+API_KEY = "oryelediovat"
 INPUT_PATH = os.path.join("data", "harvested", "record_ids.json")
 OUTPUT_DIR = os.path.join("data", "harvested", "rdf")
 
