@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-API_KEY = os.environ.get("EUROPEANA_API_KEY") 
+API_KEY = "oryelediovat"
 OUTPUT_PATH = os.path.join("data", "harvested", "record_ids.json")
 
 def harvest_records(rows=200):

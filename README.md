@@ -1,14 +1,6 @@
 
 This project contains a pipeline for validating metadata records from the **Europeana Search API** against a custom **SHACL shape**. It evaluates the metadata and classifies it into tiers that can be visualized in the final CSV report.
 
-**Table of Contents:**
-- [[#Pipeline|Pipeline]]
-- [[#Repository Structure|Repository Structure]]
-- [[#Requirements|Requirements]]
-- [[#Instructions for running the evaluation|Instructions for running the evaluation]]
-- [[#Results|Results]]
-	- [[#Results#Tier interpretation|Tier interpretation]]
-
 ## Pipeline
 - Harvest record identifiers from Europeana Search API
 - Download RDF metadata for each record
