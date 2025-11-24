@@ -26,7 +26,7 @@ def merge_rdf():
         except Exception as e:
             print(f"[ERROR] could not parse {fname}: {e}")
 
-    print("\n🔧 Cleaning malformed URIs…")
+    print("\nCleaning malformed URIs…")
 
     cleaned_graph = Graph()
     count_fixed = 0
