@@ -1,0 +1,106 @@
+metric,value
+missing_title,0
+missing_creator,54
+missing_description,39
+missing_language,77
+missing_rights,210
+missing_isShownBy,210
+missing_aggregation,0
+invalid_language_codes,130
+invalid_rights_uris,0
+nonstandard_dc_type,363
+languages_distribution:English,1
+languages_distribution:Lietuvių,1
+languages_distribution:spa,67
+languages_distribution:und,1
+languages_distribution:eng,2
+languages_distribution:gre,11
+languages_distribution:rus,15
+languages_distribution:glg,2
+languages_distribution:eng/fr/it,1
+languages_distribution:fr,1
+languages_distribution:ro,2
+languages_distribution:Deutsch,24
+languages_distribution:fre,2
+languages_distribution:lat,1
+languages_distribution:No linguistic content,1
+languages_distribution:zxx,1
+languages_distribution:nl,4
+years_distribution:1823,1
+years_distribution:1851,1
+years_distribution:1777,2
+years_distribution:1793,1
+years_distribution:1700,1
+years_distribution:1985,1
+years_distribution:1845,1
+years_distribution:1896,1
+years_distribution:1770,3
+years_distribution:1961,1
+years_distribution:1659,1
+years_distribution:1868,1
+years_distribution:1846,1
+years_distribution:1852,1
+years_distribution:1859,3
+years_distribution:1883,2
+years_distribution:1770-1771,1
+years_distribution:2014,1
+years_distribution:2002,1
+years_distribution:2011,1
+years_distribution:1919-1933 (Besessen),2
+years_distribution:1930 (Veröffentlicht),2
+years_distribution:1933 (Verschollen),2
+years_distribution:1947 (nastanak),1
+years_distribution:1920-1940 (Ausgefertigt),1
+years_distribution:1956-1969 (Ausgefertigt),1
+years_distribution:1786,1
+years_distribution:1784,2
+years_distribution:1811,1
+years_distribution:1837,2
+years_distribution:1830,1
+years_distribution:1825,1
+years_distribution:1930-1940,1
+years_distribution:1884,1
+years_distribution:1977,1
+years_distribution:1934,1
+years_distribution:1707-1715,1
+years_distribution:1800-1850,1
+years_distribution:1821,1
+years_distribution:1880-1889,1
+years_distribution:1841,1
+years_distribution:1773,2
+years_distribution:1767,1
+years_distribution:1787,2
+years_distribution:1768,1
+years_distribution:1769,1
+years_distribution:1772,1
+years_distribution:1765,1
+years_distribution:1776,1
+years_distribution:1778,1
+years_distribution:1781-1793,1
+years_distribution:1844-1846,1
+years_distribution:1705,1
+years_distribution:1909,1
+years_distribution:1762,1
+years_distribution:1951,1
+years_distribution:1864,1
+years_distribution:2023,1
+years_distribution:2021,1
+years_distribution:2007-1998,1
+years_distribution:1929,1
+years_distribution:1991,1
+years_distribution:2009,1
+years_distribution:1920,1
+years_distribution:1931,1
+years_distribution:1967,1
+years_distribution:1905,1
+years_distribution:1930,1
+years_distribution:1919,1
+years_distribution:1913,1
+years_distribution:1933,1
+years_distribution:http://www.wikidata.org/entity/Q7018,1
+years_distribution:15th century,1
+years_distribution:http://www.wikidata.org/entity/Q7034,1
+years_distribution:14th century,1
+years_distribution:1988,17
+years_distribution:1644-1911,2
+years_distribution:[NI],4

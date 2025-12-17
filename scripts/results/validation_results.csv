@@ -1,0 +1,211 @@
+record_uri,filled_fields,total_fields,tier,missing_fields
+http://data.europeana.eu/proxy/provider/2063603/LIT_280_008,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2064105/Museu_ProvidedCHO_Skoklosters_slott_24025,8,11,Tier 2 (>50%),"creator, language, country"
+http://data.europeana.eu/proxy/provider/2064105/Museu_ProvidedCHO_Skoklosters_slott_24531,8,11,Tier 2 (>50%),"creator, language, country"
+http://data.europeana.eu/proxy/provider/2064105/Museu_ProvidedCHO_Skoklosters_slott_32770,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/aggregator/2048221/europeana_fashion_691325,5,11,Tier 3 (>25%),"creator, description, language, type, year, country"
+http://data.europeana.eu/proxy/aggregator/2048221/europeana_fashion_691326,5,11,Tier 3 (>25%),"creator, description, language, type, year, country"
+http://data.europeana.eu/proxy/aggregator/2048221/europeana_fashion_791256,5,11,Tier 3 (>25%),"creator, description, language, type, year, country"
+http://data.europeana.eu/proxy/aggregator/2048221/europeana_fashion_791268,5,11,Tier 3 (>25%),"creator, description, language, type, year, country"
+http://data.europeana.eu/proxy/aggregator/2048221/europeana_fashion_791280,5,11,Tier 3 (>25%),"creator, description, language, type, year, country"
+http://data.europeana.eu/proxy/aggregator/2048221/europeana_fashion_791287,5,11,Tier 3 (>25%),"creator, description, language, type, year, country"
+http://data.europeana.eu/proxy/aggregator/2051906/data_euscreenXL_https___www_openbeelden_nl_media_649691,6,11,Tier 2 (>50%),"creator, language, type, year, country"
+http://data.europeana.eu/proxy/aggregator/2051906/data_euscreenXL_https___www_openbeelden_nl_media_658535,6,11,Tier 2 (>50%),"creator, language, type, year, country"
+http://data.europeana.eu/proxy/aggregator/2051906/data_euscreenXL_https___www_openbeelden_nl_media_703825,6,11,Tier 2 (>50%),"creator, language, type, year, country"
+http://data.europeana.eu/proxy/aggregator/2051906/data_euscreenXL_https___www_openbeelden_nl_media_703849,6,11,Tier 2 (>50%),"creator, language, type, year, country"
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_407872_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_408122_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_434185_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_434212_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_434349_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_434351_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_434518_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_434567_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_434594_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_434664_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_434683_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_436444_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_436491_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_436634_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_437127_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_440676_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_440678_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/109/https___hispana_mcu_es_lod_oai_bvpb_mcu_es_485714_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/123/https___www_searchculture_gr_aggregator_edm_medusa_000114_3_153manifest,9,11,Tier 1 (>75%),"type, country"
+http://data.europeana.eu/proxy/provider/123/https___www_searchculture_gr_aggregator_edm_medusa_000114_3_359manifest,9,11,Tier 1 (>75%),"type, country"
+http://data.europeana.eu/proxy/provider/123/https___www_searchculture_gr_aggregator_edm_medusa_000114_3_6135manifest,8,11,Tier 2 (>50%),"creator, type, country"
+http://data.europeana.eu/proxy/provider/1288/item_EHTT3T4OKK5AJEFT2KW6SCEPO5CE3XDC,8,11,Tier 2 (>50%),"creator, language, country"
+http://data.europeana.eu/proxy/provider/1288/item_MM46Q3DH7J4RS3OCCJNVVNEJ4JWYL7Z7,8,11,Tier 2 (>50%),"creator, language, country"
+http://data.europeana.eu/proxy/provider/1305/https___www_searchculture_gr_aggregator_edm_DigWAR_000181_4418,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1305/https___www_searchculture_gr_aggregator_edm_DigWAR_000181_4419,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1305/https___www_searchculture_gr_aggregator_edm_DigWAR_000181_5496,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1305/https___www_searchculture_gr_aggregator_edm_DigWAR_000181_5590,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1305/https___www_searchculture_gr_aggregator_edm_DigWAR_000181_6422,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1313/https___ekultura_hr_purl_url_MNOJYZVI35R3TN2U2RX2O3ZS7T5HPOXV,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14407,9,11,Tier 1 (>75%),"year, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14422,9,11,Tier 1 (>75%),"year, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14425,9,11,Tier 1 (>75%),"year, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14426,9,11,Tier 1 (>75%),"year, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14429,9,11,Tier 1 (>75%),"year, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14439,9,11,Tier 1 (>75%),"year, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14441,9,11,Tier 1 (>75%),"year, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14446,9,11,Tier 1 (>75%),"year, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14453,9,11,Tier 1 (>75%),"year, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14465,8,11,Tier 2 (>50%),"creator, year, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14529,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14530,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14531,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14534,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14547,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14599,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14620,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14687,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_14688,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_15533,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_16280,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_16287,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_8907,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1316/https___www_searchculture_gr_aggregator_edm_momus_000179_9031,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/1368/https___www_searchculture_gr_aggregator_edm_DigTelloglio_000196_223044_,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/1368/https___www_searchculture_gr_aggregator_edm_DigTelloglio_000196_223046_,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/1368/https___www_searchculture_gr_aggregator_edm_DigTelloglio_000196_223174_,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/1368/https___www_searchculture_gr_aggregator_edm_DigTelloglio_000196_223186_,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/1368/https___www_searchculture_gr_aggregator_edm_DigTelloglio_000196_223505_,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/1368/https___www_searchculture_gr_aggregator_edm_DigTelloglio_000196_223739_,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/1368/https___www_searchculture_gr_aggregator_edm_DigTelloglio_000196_223806_,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/1368/https___www_searchculture_gr_aggregator_edm_DigTelloglio_000196_226441_,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/1368/https___www_searchculture_gr_aggregator_edm_DigTelloglio_000196_236740_,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/1368/https___www_searchculture_gr_aggregator_edm_DigTelloglio_000196_270206_,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/192/item_2FUD3NLRU7D47VDPTMMP6VRXLOR4IOA2,8,11,Tier 2 (>50%),"creator, language, country"
+http://data.europeana.eu/proxy/provider/192/item_2WVT566I4ZMHRMM6SSC4IMLQ5KDKYGP2,8,11,Tier 2 (>50%),"creator, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KKS6020,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMS188,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMS3059,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMS3060,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMS3065,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMS3075,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMS3076,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMS3297,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMS3840,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMS4864,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMS5,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMS6396,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMS7248,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMS7601,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMSsp179,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2020903/KMSsp292,8,11,Tier 2 (>50%),"description, language, country"
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_16511_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_16512_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_16515_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_16518_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_16519_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_16520_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_16521_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_16551_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_16553_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_16555_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_472229_ent0,9,11,Tier 1 (>75%),"description, country"
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_6542_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_6609_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_6663_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_6671_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_6741_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2024919/bibbia_33,9,11,Tier 1 (>75%),"type, country"
+http://data.europeana.eu/proxy/provider/2048047/Clasate_05d2ecf437a6471788df3aa46065eba4,8,11,Tier 2 (>50%),"creator, language, country"
+http://data.europeana.eu/proxy/provider/2048047/Clasate_07607f31fc174bc3889d70938d9e6838,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2048047/Clasate_535e95afb9d84a65ac1743cd38fc3fe5,8,11,Tier 2 (>50%),"creator, language, country"
+http://data.europeana.eu/proxy/provider/2048047/Clasate_7071e6909dfe4b8b90b6d1f56ab1b5e0,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2048047/Clasate_809a40540b944cee9b1118d36342b75c,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2048047/Clasate_a70c4db9510c4edca963004e3efc32b9,8,11,Tier 2 (>50%),"creator, language, country"
+http://data.europeana.eu/proxy/provider/2048047/Clasate_d10eb6f5ab6511daa0605254abdd25f5,8,11,Tier 2 (>50%),"creator, language, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_007a9d45_07ad_4af6_8a61_91b2066429fe,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_05a38139_f526_4874_9d08_165421f346c7,9,11,Tier 1 (>75%),"description, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_0b5b9c75_4483_2c62_d678_819bc75e362a,9,11,Tier 1 (>75%),"description, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_0d7b7fc3_c38e_4fbd_9836_6d8ab6cb48f5,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_15165e8b_fb6c_4dcb_8c3f_c846cff5c249,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_2802258f_d266_485f_80ad_d6b3f67a56fe,9,11,Tier 1 (>75%),"description, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_31e987ff_1461_4941_a567_5d14b2fec655,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_471353ff_4600_9cae_be8f_29a86196a901,9,11,Tier 1 (>75%),"description, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_62778f0b_0cba_43a2_a90f_a64302083ecc,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_73ce8871_1795_4182_9f31_6ce527573810,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_76a1ed00_b164_43c0_b0dc_f4495aadaab8,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_8382dd78_ef66_4174_babf_8bcfa98e9a7b,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_87767d4d_a53a_46fd_a268_41f688bceabc,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_8a0ba808_a9d3_4daf_95e5_2cd4cec30202,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_9a0c910d_ad98_405f_ad35_5c1572903cae,8,11,Tier 2 (>50%),"creator, year, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_b9022086_df2f_46f6_a24f_4a4469964054,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_c10e5ef8_5945_451f_9dc8_8b4eaddfc09d,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_c3cde179_b17d_4404_8ce1_5b23f77cdacf,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_cda4c7f7_c52e_436d_a484_553a46ef88ca,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_dfef2bb6_c25c_4b8f_aebf_10d37af1166e,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_e5c12350_fbc2_4370_ad15_bc47777e2030,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_ea848e4b_d987_4ac9_a99e_bd0e4660c201,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_fb78df7b_9036_4664_9885_04d2fe6e051b,9,11,Tier 1 (>75%),"creator, country"
+http://data.europeana.eu/proxy/provider/2058611/_kimnet_cho_fbf3a062_85c1_4c0f_86cd_cde28a634689,9,11,Tier 1 (>75%),"description, country"
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12637_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12661_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12667_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12673_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12677_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12679_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12682_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12685_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12688_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12689_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12691_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12710_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12754_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12832_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12833_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_12967_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_15919_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_61007_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_61320_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_61683_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_61875_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_62236_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_62237_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_62597_ent0,9,11,Tier 1 (>75%),"description, country"
+http://data.europeana.eu/proxy/provider/344/https___hispana_mcu_es_lod_oai_bibliotecadigital_rah_es_62678_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/499/https___hispana_mcu_es_lod_oai_larramendi_es_12349_ent0,9,11,Tier 1 (>75%),"description, country"
+http://data.europeana.eu/proxy/provider/545/https___hispana_mcu_es_lod_oai_bibliotecadigital_jcyl_es_12236_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/545/https___hispana_mcu_es_lod_oai_bibliotecadigital_jcyl_es_22075_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/545/https___hispana_mcu_es_lod_oai_bibliotecadigital_jcyl_es_22610_ent0,9,11,Tier 1 (>75%),"description, country"
+http://data.europeana.eu/proxy/provider/545/https___hispana_mcu_es_lod_oai_bibliotecadigital_jcyl_es_33607_ent0,9,11,Tier 1 (>75%),"description, country"
+http://data.europeana.eu/proxy/provider/570/https___hispana_mcu_es_lod_oai_bibliotecavirtual_aragon_es_3230_ent0,9,11,Tier 1 (>75%),"description, country"
+http://data.europeana.eu/proxy/provider/570/https___hispana_mcu_es_lod_oai_bibliotecavirtual_aragon_es_4923_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/570/https___hispana_mcu_es_lod_oai_bibliotecavirtual_aragon_es_4924_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/570/https___hispana_mcu_es_lod_oai_bibliotecavirtual_aragon_es_4928_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/570/https___hispana_mcu_es_lod_oai_bibliotecavirtual_aragon_es_4941_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/570/https___hispana_mcu_es_lod_oai_bibliotecavirtual_aragon_es_4942_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/570/https___hispana_mcu_es_lod_oai_bibliotecavirtual_aragon_es_5015_ent0,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/785/_sq87rm12b,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/785/_v9807v56j,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/815/item_3280710,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/936/Culturalia_1a9c361c_df5e_4a92_aaa9_6ce1cd948405,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_29f4a61b_99ba_4b5e_9f44_9f6373514ca8,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_2a4e7a42_dc5c_4d09_9043_7241319f23ee,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_64067fcb_b73e_4a2e_bdaa_913fb44f06d9,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_6a2becfd_11de_4bed_8280_99f83c0dacac,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_6d3253b6_d205_4468_b5e0_43bc75a934a7,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_6ebd1f8b_74b6_411e_ae37_78d10ab80913,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_763824a4_9f85_4118_a260_447736d7a8f4,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_8ed2de0f_4052_4d7f_a3eb_585a73fc8e4b,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_b2f67d4f_0dda_4a71_905b_455ae5ff89bc,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_bf181995_e8a8_4898_b719_ddc188ede5e5,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_c2e31130_f914_4d3c_b784_4c3e8ab7e36f,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_cc79c4b9_b22e_4f39_a99c_7ff4df1bec35,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_d0b1ee5f_c4da_4223_ad93_772e9b6d1b2b,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_e2c14235_7d3f_4222_a4de_95b7cacb6d8d,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_efd362d1_4049_4c47_ae3e_04fa91403123,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/936/Culturalia_f3d41bf7_d3fe_4446_8578_4fcb618f6bd8,9,11,Tier 1 (>75%),"language, country"
+http://data.europeana.eu/proxy/provider/2048221/europeana_fashion_691325,7,11,Tier 2 (>50%),"creator, description, language, country"
+http://data.europeana.eu/proxy/provider/2048221/europeana_fashion_691326,7,11,Tier 2 (>50%),"creator, description, language, country"
+http://data.europeana.eu/proxy/provider/2048221/europeana_fashion_791256,7,11,Tier 2 (>50%),"creator, description, language, country"
+http://data.europeana.eu/proxy/provider/2048221/europeana_fashion_791268,7,11,Tier 2 (>50%),"creator, description, language, country"
+http://data.europeana.eu/proxy/provider/2048221/europeana_fashion_791280,7,11,Tier 2 (>50%),"creator, description, language, country"
+http://data.europeana.eu/proxy/provider/2048221/europeana_fashion_791287,7,11,Tier 2 (>50%),"creator, description, language, country"
+http://data.europeana.eu/proxy/provider/2051906/data_euscreenXL_https___www_openbeelden_nl_media_649691,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2051906/data_euscreenXL_https___www_openbeelden_nl_media_658535,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2051906/data_euscreenXL_https___www_openbeelden_nl_media_703825,10,11,Tier 1 (>75%),country
+http://data.europeana.eu/proxy/provider/2051906/data_euscreenXL_https___www_openbeelden_nl_media_703849,10,11,Tier 1 (>75%),country
