@@ -1,16 +1,6 @@
 
 This project contains a pipeline for validating metadata records from the **Europeana Search API** using **SPARQL** and **SHACL**. 
 
-**Table of Contents:**
-- [[#Pipeline|Pipeline]]
-- [[#Repository Structure|Repository Structure]]
-- [[#Requirements|Requirements]]
-- [[#Instructions for running the evaluation|Instructions for running the evaluation]]
-- [[#Results|Results]]
-	- [[#Results#Tier interpretation|Tier interpretation]]
-	- [[#Results#Aggregate SPARQL metrics|Aggregate SPARQL metrics]]
-
-
 ## Pipeline
 - Harvest record identifiers from Europeana Search API using **parameterized queries**
 - Download RDF metadata for each record
