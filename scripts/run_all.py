@@ -21,31 +21,31 @@ def main(field, value, rows):
     # 1. Harvest
     run_step(
         "Harvesting record IDs",
-        f'py harvest.py -f {field} -v "{value}" -r {rows}'
+        f'py scripts/harvest.py -f {field} -v "{value}" -r {rows}'
     )
 
     # 2. Fetch RDF files
     run_step(
         "Fetching RDF files",
-        "py fetch_rdf.py"
+        "py scripts/fetch_rdf.py"
     )
 
     # 3. Merge RDF
     run_step(
         "Merging RDF files",
-        "py merge_graph.py"
+        "py scripts/merge_graph.py"
     )
 
     # 4. Validate metadata and compute tiers
     run_step(
         "Running SHACL validation + metadata completeness",
-        "py validate.py"
+        "py scripts/validate.py"
     )
 
     # 5. SPARQL evaluation
     run_step(
         "SPARQL metadata quality metrics",
-        "py sparql_metrics.py"
+        "py scripts/sparql_metrics.py"
     )
 
 
